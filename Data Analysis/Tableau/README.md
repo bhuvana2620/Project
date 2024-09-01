@@ -15,3 +15,7 @@ Added custom KPIs in the titles for quick insights.
 Configured download actions to allow users to export views to PDF.
 
 This dashboard was designed to be intuitive and user-friendly, offering insights into global sales performance for strategic decision-making. For more details on the design choices and implementation, refer to the accompanying documentation in this repository.
+
+for reference:
+
+https://public.tableau.com/app/profile/bhuvaneswari.kudaravalli/viz/GlobalSalesPerformanceAnalysis/Dashboard1
